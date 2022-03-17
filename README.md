@@ -30,6 +30,7 @@ To start the project you need to run 'node index' from the root directory. Check
 ## Testing:
 
 Run the 'npm run test' command from the root directory.
+https://drive.google.com/drive/u/0/folders/1djbY6GFDIdKiYJZffkYcIVuh5e0BeWO0
 
 ## Questions:
 
